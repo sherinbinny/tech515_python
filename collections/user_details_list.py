@@ -2,10 +2,11 @@
 # Mixing different data types in a list
 # ----------------------------
 
-#Use your code from the "Task: Python variable basics" (last subtask) where you asked the user for their name, age and DOB.
+# Use your code from the "Task: Python variable basics" (last subtask) where you asked the user for their name, age and DOB.
 # Mix the name, age and DOB into one list user_details_list
 # Print the user's name, age and DOB from the list
-# Check the age is saved as an integer in the list. If it's not, work out how to convert it to an integer and add the age integer to the list.
+# Check the age is saved as an integer in the list.
+# If it's not, work out how to convert it to an integer and add the age integer to the list.
 # Ask the user for their height in cm and save it to the variable height
 # Save height as a float in the list, and print the height from the list.
 
